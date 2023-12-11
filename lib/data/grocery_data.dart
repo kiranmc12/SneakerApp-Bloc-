@@ -5,7 +5,7 @@ class GroceryData{
   {
       'id': '1',
       'name': 'Air Jordan 1',
-      'description': 'Classic Air Jordan 1 basketball sneakers',
+      'description': 'Classic Air Jordan 1 basketball sneakerss',
       'price': 149.99,
       'imageUrl': 'https://sneakernews.com/wp-content/uploads/2020/06/nike-dunk-low-CU1727-100-6.jpg?w=1140',
     },
